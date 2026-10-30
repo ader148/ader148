@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Alvaro Daniel Erazo" width="380" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=200&section=header&text=Full%20Stack%20Developer&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20%E2%80%A2%20Backend%20%E2%80%A2%20Bases%20de%20datos&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <h1 align="center">👨‍💻 Hola, soy Alvaro Daniel Erazo ⚡</h1>
 
@@ -11,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.alvaroerazo.com"><img src="https://img.shields.io/badge/Portafolio-alvaroerazo.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.alvaroerazo.com"><img src="https://img.shields.io/badge/Portafolio-alvaroerazo.com-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Popayán-Colombia-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=ader148&label=Visitas&color=7c3aed&style=for-the-badge" />
 </p>
@@ -68,8 +66,8 @@ const alvaro = {
 ## 📊 &nbsp;Actividad en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ader148&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ader148&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ader148&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ader148&theme=tokyonight" />
 </p>
 
 <p align="center">
